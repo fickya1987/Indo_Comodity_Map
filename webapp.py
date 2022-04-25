@@ -19,7 +19,7 @@ filekebun = os.path.join(my_path, "Produksi/Perkebunan.xlsx")
 filepadi = os.path.join(my_path, "Produksi/Luas Panen, Produksi, dan Produktivitas Padi Menurut Provinsi.xlsx")
 fileikan1 = os.path.join(my_path, "Produksi/Ikan Tangkap.xlsx")
 fileikan2 = os.path.join(my_path, "Produksi/Ikan Budidaya.xls")
-mapfile = os.path.join(my_path, "Data Ekspor Impor/indonesia-geojson-master\indonesia.geojson")
+mapfile = os.path.join(my_path, "Data Ekspor Impor/indonesia-geojson-master/indonesia.geojson")
 filekons = os.path.join(my_path, "Konsumsi/Konsumsi.xlsx")
 
 

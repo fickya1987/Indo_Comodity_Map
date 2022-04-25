@@ -375,7 +375,10 @@ plt.pie(sizes, wedgeprops=dict(width=.5), colors=colors ,autopct='%1.1f%%',
         shadow=True, startangle=30,)
 plt.axis('equal')  # Equal aspect ratio ensures that pie is drawn as a circle.
 plt.title("Tembakau")
-
+plt.legend(labels,
+          title="Legends",
+          loc="best",
+          bbox_to_anchor=(1, 0, 0.5, 1))
 
 labels = 'Export', 'Import'
 sizes = [data_ikanudang[option1], imp_ikanudang[option1]]

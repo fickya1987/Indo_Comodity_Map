@@ -10,17 +10,17 @@ import numpy as np
 import os.path
 
 my_path = os.path.abspath(os.path.dirname(__file__))
-file1 = os.path.join(my_path, "Data Ekspor Impor\Perkembangan Ekspor NonMigas (Komoditi) Periode 2017 - 2022.xlsx")
-file2 = os.path.join(my_path, "Data Ekspor Impor\Perkembangan Impor Non Migas - Komoditi Periode 2017 - 2022.xlsx")
+file1 = os.path.join(my_path, "Data Ekspor Impor/Perkembangan Ekspor NonMigas (Komoditi) Periode 2017 - 2022.xlsx")
+file2 = os.path.join(my_path, "Data Ekspor Impor/Perkembangan Impor Non Migas - Komoditi Periode 2017 - 2022.xlsx")
 flagimg = os.path.join(my_path, "Flag_map_of_Indonesia.jpg")
-fileayam = os.path.join(my_path, "Produksi\Ayam.xlsx")
-filesapi = os.path.join(my_path, "Produksi\Sapi.xlsx")
-filekebun = os.path.join(my_path, "Produksi\Perkebunan.xlsx")
-filepadi = os.path.join(my_path, "Produksi\Luas Panen, Produksi, dan Produktivitas Padi Menurut Provinsi.xlsx")
-fileikan1 = os.path.join(my_path, "Produksi\Ikan Tangkap.xlsx")
-fileikan2 = os.path.join(my_path, "Produksi\Ikan Budidaya.xls")
-mapfile = os.path.join(my_path, "Data Ekspor Impor\indonesia-geojson-master\indonesia.geojson")
-filekons = os.path.join(my_path, "Konsumsi\Konsumsi.xlsx")
+fileayam = os.path.join(my_path, "Produksi/Ayam.xlsx")
+filesapi = os.path.join(my_path, "Produksi/Sapi.xlsx")
+filekebun = os.path.join(my_path, "Produksi/Perkebunan.xlsx")
+filepadi = os.path.join(my_path, "Produksi/Luas Panen, Produksi, dan Produktivitas Padi Menurut Provinsi.xlsx")
+fileikan1 = os.path.join(my_path, "Produksi/Ikan Tangkap.xlsx")
+fileikan2 = os.path.join(my_path, "Produksi/Ikan Budidaya.xls")
+mapfile = os.path.join(my_path, "Data Ekspor Impor/indonesia-geojson-master\indonesia.geojson")
+filekons = os.path.join(my_path, "Konsumsi/Konsumsi.xlsx")
 
 
 

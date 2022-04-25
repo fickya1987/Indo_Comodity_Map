@@ -1,0 +1,698 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40"><head><!--[if gte mso 9]><xml><x:ExcelWorkbook><x:ExcelWorksheets><x:ExcelWorksheet><x:Name>Summary HS 2 Digit</x:Name><x:WorksheetOptions><x:DisplayGridlines/></x:WorksheetOptions></x:ExcelWorksheet></x:ExcelWorksheets></x:ExcelWorkbook></xml><![endif]--></head><body><table>
+				<thead>
+				<tr>
+				<td align="center" style="width: 2%;">No.</td>
+				<td align="center" style="width: 36%;">Kode HS dan Deskripsi</td>
+				<td align="center" style="width: 16%;">Nilai Ekspor (US $)</td>
+				<td align="center" style="width: 16%;">Berat Ekspor (KG)</td>
+				<td align="center" style="width: 15%;">Nilai Impor (US $)</td>
+				<td align="center" style="width: 15%;">Berat Impor (KG)</td>
+			</tr>
+				</thead>
+				<tbody><tr>
+					<td>1</td>
+					<td>[01] Binatang hidup</td>
+					<td style="text-align:right;">5&nbsp;873&nbsp;999,59</td>
+					<td style="text-align:right;">2&nbsp;680&nbsp;813,72</td>
+					<td style="text-align:right;">68&nbsp;424&nbsp;519,00</td>
+					<td style="text-align:right;">23&nbsp;818&nbsp;775,00</td>
+				</tr><tr>
+					<td>2</td>
+					<td>[02] Daging dan sisa daging yang dapat dimakan</td>
+					<td style="text-align:right;">2&nbsp;080&nbsp;212,18</td>
+					<td style="text-align:right;">282&nbsp;403,80</td>
+					<td style="text-align:right;">94&nbsp;038&nbsp;467,00</td>
+					<td style="text-align:right;">28&nbsp;656&nbsp;206,00</td>
+				</tr><tr>
+					<td>3</td>
+					<td>[03] Ikan dan krustasea, moluska serta invertebrata air lainnya</td>
+					<td style="text-align:right;">353&nbsp;147&nbsp;103,18</td>
+					<td style="text-align:right;">86&nbsp;326&nbsp;731,81</td>
+					<td style="text-align:right;">23&nbsp;710&nbsp;127,00</td>
+					<td style="text-align:right;">9&nbsp;055&nbsp;556,00</td>
+				</tr><tr>
+					<td>4</td>
+					<td>[04] Produk susu; telur unggas; madu alam; produk hewani yang dapat dimakan, tidak dirinci atau termasuk dalam pos lain</td>
+					<td style="text-align:right;">47&nbsp;761&nbsp;502,44</td>
+					<td style="text-align:right;">2&nbsp;282&nbsp;264,30</td>
+					<td style="text-align:right;">127&nbsp;095&nbsp;239,00</td>
+					<td style="text-align:right;">51&nbsp;060&nbsp;845,00</td>
+				</tr><tr>
+					<td>5</td>
+					<td>[05] Produk hewani, tidak dirinci atau termasuk dalam pos lain</td>
+					<td style="text-align:right;">1&nbsp;598&nbsp;953,00</td>
+					<td style="text-align:right;">1&nbsp;193&nbsp;223,71</td>
+					<td style="text-align:right;">13&nbsp;319&nbsp;862,00</td>
+					<td style="text-align:right;">4&nbsp;577&nbsp;710,00</td>
+				</tr><tr>
+					<td>6</td>
+					<td>[06] Pohon hidup dan tanaman lainnya; umbi, akar danyang semacam itu; bunga potong dan daun untuk hiasan</td>
+					<td style="text-align:right;">2&nbsp;137&nbsp;990,25</td>
+					<td style="text-align:right;">920&nbsp;034,39</td>
+					<td style="text-align:right;">947&nbsp;093,00</td>
+					<td style="text-align:right;">189&nbsp;362,00</td>
+				</tr><tr>
+					<td>7</td>
+					<td>[07] Sayuran dan akar serta bonggol tertentu yang dapat dimakan</td>
+					<td style="text-align:right;">6&nbsp;456&nbsp;818,63</td>
+					<td style="text-align:right;">6&nbsp;950&nbsp;626,11</td>
+					<td style="text-align:right;">145&nbsp;603&nbsp;279,00</td>
+					<td style="text-align:right;">136&nbsp;322&nbsp;939,00</td>
+				</tr><tr>
+					<td>8</td>
+					<td>[08] Buah dan buah bertempurung yang dapat dimakan; kulit dari buah jeruk dan melon</td>
+					<td style="text-align:right;">97&nbsp;192&nbsp;884,62</td>
+					<td style="text-align:right;">114&nbsp;614&nbsp;297,64</td>
+					<td style="text-align:right;">236&nbsp;661&nbsp;240,00</td>
+					<td style="text-align:right;">122&nbsp;930&nbsp;078,00</td>
+				</tr><tr>
+					<td>9</td>
+					<td>[09] Kopi, teh, mate, dan rempah-rempah</td>
+					<td style="text-align:right;">136&nbsp;325&nbsp;572,97</td>
+					<td style="text-align:right;">49&nbsp;307&nbsp;270,23</td>
+					<td style="text-align:right;">24&nbsp;890&nbsp;163,00</td>
+					<td style="text-align:right;">13&nbsp;927&nbsp;743,00</td>
+				</tr><tr>
+					<td>10</td>
+					<td>[10] Serealia</td>
+					<td style="text-align:right;">143&nbsp;511,46</td>
+					<td style="text-align:right;">127&nbsp;950,00</td>
+					<td style="text-align:right;">226&nbsp;789&nbsp;323,00</td>
+					<td style="text-align:right;">868&nbsp;539&nbsp;513,00</td>
+				</tr><tr>
+					<td>11</td>
+					<td>[11] Produk industri penggilingan; malt; pati; inulin; gluten gandum</td>
+					<td style="text-align:right;">5&nbsp;438&nbsp;649,96</td>
+					<td style="text-align:right;">11&nbsp;065&nbsp;848,70</td>
+					<td style="text-align:right;">25&nbsp;684&nbsp;957,00</td>
+					<td style="text-align:right;">59&nbsp;729&nbsp;648,00</td>
+				</tr><tr>
+					<td>12</td>
+					<td>[12] Biji dan buah mengandung minyak; bermacam-macam butir; biji dan buah; tanaman industri atau tanaman obat; jerami dan makanan ternak</td>
+					<td style="text-align:right;">27&nbsp;450&nbsp;768,35</td>
+					<td style="text-align:right;">31&nbsp;402&nbsp;643,04</td>
+					<td style="text-align:right;">135&nbsp;785&nbsp;258,00</td>
+					<td style="text-align:right;">237&nbsp;979&nbsp;527,00</td>
+				</tr><tr>
+					<td>13</td>
+					<td>[13] Lak; getah, damar dan sap serta ekstrak nabati lainnya</td>
+					<td style="text-align:right;">11&nbsp;185&nbsp;671,36</td>
+					<td style="text-align:right;">4&nbsp;461&nbsp;735,21</td>
+					<td style="text-align:right;">6&nbsp;679&nbsp;830,00</td>
+					<td style="text-align:right;">746&nbsp;945,00</td>
+				</tr><tr>
+					<td>14</td>
+					<td>[14] Bahan anyaman nabati; produk nabati tidak dirinci atau termasuk dalam pos lainnya</td>
+					<td style="text-align:right;">28&nbsp;848&nbsp;159,41</td>
+					<td style="text-align:right;">380&nbsp;991&nbsp;052,82</td>
+					<td style="text-align:right;">91&nbsp;865,00</td>
+					<td style="text-align:right;">140&nbsp;373,00</td>
+				</tr><tr>
+					<td>15</td>
+					<td>[15] Lemak dan minyak hewani atau nabati serta produk disosiasinya; lemak olahan yang dapat dimakan; malam hewani atau malam nabati</td>
+					<td style="text-align:right;">2&nbsp;063&nbsp;226&nbsp;322,06</td>
+					<td style="text-align:right;">3&nbsp;393&nbsp;260&nbsp;065,09</td>
+					<td style="text-align:right;">13&nbsp;476&nbsp;829,00</td>
+					<td style="text-align:right;">9&nbsp;151&nbsp;533,00</td>
+				</tr><tr>
+					<td>16</td>
+					<td>[16] Olahan dari daging, ikan, krustacea, moluska atau invertebrata air lainnya</td>
+					<td style="text-align:right;">107&nbsp;456&nbsp;297,32</td>
+					<td style="text-align:right;">17&nbsp;134&nbsp;877,32</td>
+					<td style="text-align:right;">5&nbsp;256&nbsp;869,00</td>
+					<td style="text-align:right;">1&nbsp;145&nbsp;152,00</td>
+				</tr><tr>
+					<td>17</td>
+					<td>[17] Gula dan kembang gula</td>
+					<td style="text-align:right;">24&nbsp;091&nbsp;240,74</td>
+					<td style="text-align:right;">70&nbsp;042&nbsp;839,03</td>
+					<td style="text-align:right;">178&nbsp;270&nbsp;829,00</td>
+					<td style="text-align:right;">509&nbsp;278&nbsp;326,00</td>
+				</tr><tr>
+					<td>18</td>
+					<td>[18] Kakao dan olahan kakao</td>
+					<td style="text-align:right;">100&nbsp;634&nbsp;480,60</td>
+					<td style="text-align:right;">31&nbsp;514&nbsp;962,30</td>
+					<td style="text-align:right;">51&nbsp;195&nbsp;818,00</td>
+					<td style="text-align:right;">18&nbsp;441&nbsp;638,00</td>
+				</tr><tr>
+					<td>19</td>
+					<td>[19] Olahan dari serealia, tepung, pati atau susu; produk industri kue</td>
+					<td style="text-align:right;">96&nbsp;729&nbsp;172,21</td>
+					<td style="text-align:right;">42&nbsp;774&nbsp;403,55</td>
+					<td style="text-align:right;">43&nbsp;470&nbsp;228,00</td>
+					<td style="text-align:right;">15&nbsp;626&nbsp;535,00</td>
+				</tr><tr>
+					<td>20</td>
+					<td>[20] Olahan dari sayuran, buah, biji/kacang atau bagian dari tanaman</td>
+					<td style="text-align:right;">23&nbsp;045&nbsp;626,91</td>
+					<td style="text-align:right;">19&nbsp;443&nbsp;899,42</td>
+					<td style="text-align:right;">18&nbsp;471&nbsp;664,00</td>
+					<td style="text-align:right;">12&nbsp;818&nbsp;611,00</td>
+				</tr><tr>
+					<td>21</td>
+					<td>[21] Bermacam-macam olahan yang dapat dimakan</td>
+					<td style="text-align:right;">121&nbsp;178&nbsp;813,17</td>
+					<td style="text-align:right;">47&nbsp;094&nbsp;378,80</td>
+					<td style="text-align:right;">66&nbsp;719&nbsp;464,00</td>
+					<td style="text-align:right;">20&nbsp;033&nbsp;270,00</td>
+				</tr><tr>
+					<td>22</td>
+					<td>[22] Minuman, alkohol, dan cuka</td>
+					<td style="text-align:right;">14&nbsp;618&nbsp;114,82</td>
+					<td style="text-align:right;">28&nbsp;535&nbsp;414,46</td>
+					<td style="text-align:right;">15&nbsp;735&nbsp;468,00</td>
+					<td style="text-align:right;">14&nbsp;275&nbsp;497,00</td>
+				</tr><tr>
+					<td>23</td>
+					<td>[23] Residu dan sisa dari industri makanan; olahan makanan hewan</td>
+					<td style="text-align:right;">84&nbsp;195&nbsp;135,07</td>
+					<td style="text-align:right;">660&nbsp;594&nbsp;713,30</td>
+					<td style="text-align:right;">242&nbsp;896&nbsp;850,00</td>
+					<td style="text-align:right;">607&nbsp;919&nbsp;172,00</td>
+				</tr><tr>
+					<td>24</td>
+					<td>[24] Tembakau dan pengganti tembakau dipabrikasi</td>
+					<td style="text-align:right;">94&nbsp;497&nbsp;408,33</td>
+					<td style="text-align:right;">10&nbsp;838&nbsp;970,35</td>
+					<td style="text-align:right;">57&nbsp;924&nbsp;885,00</td>
+					<td style="text-align:right;">11&nbsp;284&nbsp;523,00</td>
+				</tr><tr>
+					<td>25</td>
+					<td>[25] Garam; belerang; tanah dan batu; bahan plester; kapur dan semen</td>
+					<td style="text-align:right;">17&nbsp;379&nbsp;305,04</td>
+					<td style="text-align:right;">985&nbsp;768&nbsp;519,42</td>
+					<td style="text-align:right;">74&nbsp;837&nbsp;079,00</td>
+					<td style="text-align:right;">1&nbsp;332&nbsp;604&nbsp;218,00</td>
+				</tr><tr>
+					<td>26</td>
+					<td>[26] Bijih logam, terak, dan abu</td>
+					<td style="text-align:right;">386&nbsp;357&nbsp;078,44</td>
+					<td style="text-align:right;">5&nbsp;391&nbsp;451&nbsp;116,94</td>
+					<td style="text-align:right;">37&nbsp;076&nbsp;131,00</td>
+					<td style="text-align:right;">392&nbsp;513&nbsp;126,00</td>
+				</tr><tr>
+					<td>27</td>
+					<td>[27] Bahan bakar mineral, minyak mineral dan produk sulingannya; zat mengandung bitumen; malam mineral</td>
+					<td style="text-align:right;">2&nbsp;892&nbsp;627&nbsp;608,34</td>
+					<td style="text-align:right;">40&nbsp;037&nbsp;511&nbsp;666,86</td>
+					<td style="text-align:right;">2&nbsp;286&nbsp;459&nbsp;209,00</td>
+					<td style="text-align:right;">4&nbsp;663&nbsp;584&nbsp;854,00</td>
+				</tr><tr>
+					<td>28</td>
+					<td>[28] Bahan kimia anorganik; senyawa organik atau anorganik dari logam mulia, dari logam tanah langka, dari unsur radioaktif dan dari isotop</td>
+					<td style="text-align:right;">82&nbsp;686&nbsp;424,90</td>
+					<td style="text-align:right;">297&nbsp;271&nbsp;791,78</td>
+					<td style="text-align:right;">132&nbsp;837&nbsp;497,00</td>
+					<td style="text-align:right;">262&nbsp;888&nbsp;255,00</td>
+				</tr><tr>
+					<td>29</td>
+					<td>[29] Bahan kimia organik</td>
+					<td style="text-align:right;">205&nbsp;279&nbsp;056,73</td>
+					<td style="text-align:right;">247&nbsp;205&nbsp;445,27</td>
+					<td style="text-align:right;">437&nbsp;563&nbsp;458,00</td>
+					<td style="text-align:right;">446&nbsp;847&nbsp;954,00</td>
+				</tr><tr>
+					<td>30</td>
+					<td>[30] Produk farmasi</td>
+					<td style="text-align:right;">54&nbsp;108&nbsp;040,84</td>
+					<td style="text-align:right;">1&nbsp;958&nbsp;715,82</td>
+					<td style="text-align:right;">74&nbsp;274&nbsp;550,00</td>
+					<td style="text-align:right;">1&nbsp;818&nbsp;893,00</td>
+				</tr><tr>
+					<td>31</td>
+					<td>[31] Pupuk</td>
+					<td style="text-align:right;">54&nbsp;944&nbsp;658,12</td>
+					<td style="text-align:right;">217&nbsp;621&nbsp;911,40</td>
+					<td style="text-align:right;">85&nbsp;542&nbsp;462,00</td>
+					<td style="text-align:right;">413&nbsp;739&nbsp;117,00</td>
+				</tr><tr>
+					<td>32</td>
+					<td>[32] Ekstrak penyamak atau pencelup; tanin dan turunannya; bahan celup; pigmen dan bahan pewarna lainnya; cat dan pernis; dempul dan mastik lainnya; tinta</td>
+					<td style="text-align:right;">33&nbsp;166&nbsp;071,62</td>
+					<td style="text-align:right;">8&nbsp;902&nbsp;295,48</td>
+					<td style="text-align:right;">117&nbsp;603&nbsp;701,00</td>
+					<td style="text-align:right;">32&nbsp;747&nbsp;717,00</td>
+				</tr><tr>
+					<td>33</td>
+					<td>[33] Minyak atsiri dan resinoida, preparat wewangian, kosmetika atau rias</td>
+					<td style="text-align:right;">58&nbsp;050&nbsp;357,59</td>
+					<td style="text-align:right;">7&nbsp;491&nbsp;704,71</td>
+					<td style="text-align:right;">97&nbsp;094&nbsp;296,00</td>
+					<td style="text-align:right;">7&nbsp;154&nbsp;479,00</td>
+				</tr><tr>
+					<td>34</td>
+					<td>[34] Sabun, bahan aktif permukaan organik, preparat pembersih, pelumas, malam tiruan/olahan, preparat pemoles/penggosok, lilin; dan preparat untuk gigi dengan bahan dasar plaster</td>
+					<td style="text-align:right;">74&nbsp;812&nbsp;136,07</td>
+					<td style="text-align:right;">85&nbsp;437&nbsp;076,96</td>
+					<td style="text-align:right;">41&nbsp;417&nbsp;125,00</td>
+					<td style="text-align:right;">18&nbsp;223&nbsp;045,00</td>
+				</tr><tr>
+					<td>35</td>
+					<td>[35] Zat albumina; pati dimodifikasi; perekat; enzim</td>
+					<td style="text-align:right;">4&nbsp;927&nbsp;461,01</td>
+					<td style="text-align:right;">1&nbsp;666&nbsp;298,71</td>
+					<td style="text-align:right;">47&nbsp;004&nbsp;727,00</td>
+					<td style="text-align:right;">22&nbsp;924&nbsp;505,00</td>
+				</tr><tr>
+					<td>36</td>
+					<td>[36] Bahan peledak; produk piroteknik; korek api; paduan piroforik; preparat tertentu yang mudah terbakar</td>
+					<td style="text-align:right;">359&nbsp;660,22</td>
+					<td style="text-align:right;">303&nbsp;788,00</td>
+					<td style="text-align:right;">15&nbsp;883&nbsp;467,00</td>
+					<td style="text-align:right;">2&nbsp;833&nbsp;889,00</td>
+				</tr><tr>
+					<td>37</td>
+					<td>[37] Barang fotografi atau sinematografi</td>
+					<td style="text-align:right;">145&nbsp;535,52</td>
+					<td style="text-align:right;">15&nbsp;815,48</td>
+					<td style="text-align:right;">6&nbsp;300&nbsp;359,00</td>
+					<td style="text-align:right;">1&nbsp;024&nbsp;760,00</td>
+				</tr><tr>
+					<td>38</td>
+					<td>[38] Aneka produk kimia</td>
+					<td style="text-align:right;">311&nbsp;621&nbsp;171,99</td>
+					<td style="text-align:right;">433&nbsp;169&nbsp;661,99</td>
+					<td style="text-align:right;">200&nbsp;941&nbsp;600,00</td>
+					<td style="text-align:right;">112&nbsp;661&nbsp;871,00</td>
+				</tr><tr>
+					<td>39</td>
+					<td>[39] Plastik dan barang daripadanya</td>
+					<td style="text-align:right;">189&nbsp;194&nbsp;488,16</td>
+					<td style="text-align:right;">131&nbsp;168&nbsp;062,69</td>
+					<td style="text-align:right;">664&nbsp;443&nbsp;572,00</td>
+					<td style="text-align:right;">412&nbsp;772&nbsp;442,00</td>
+				</tr><tr>
+					<td>40</td>
+					<td>[40] Karet dan barang daripadanya</td>
+					<td style="text-align:right;">462&nbsp;583&nbsp;638,55</td>
+					<td style="text-align:right;">258&nbsp;237&nbsp;649,47</td>
+					<td style="text-align:right;">164&nbsp;363&nbsp;152,00</td>
+					<td style="text-align:right;">58&nbsp;340&nbsp;029,00</td>
+				</tr><tr>
+					<td>41</td>
+					<td>[41] Jangat dan kulit mentah (selain kulit berbulu) dan kulit samak</td>
+					<td style="text-align:right;">7&nbsp;559&nbsp;600,55</td>
+					<td style="text-align:right;">697&nbsp;753,57</td>
+					<td style="text-align:right;">42&nbsp;158&nbsp;169,00</td>
+					<td style="text-align:right;">6&nbsp;805&nbsp;160,00</td>
+				</tr><tr>
+					<td>42</td>
+					<td>[42] Barang dari kulit samak; saddlery dan harness; barang untuk bepergian, tas tangan dan sejenisnya; barang dari usus binatang hewan (selain benang ulat sutera)</td>
+					<td style="text-align:right;">59&nbsp;551&nbsp;490,20</td>
+					<td style="text-align:right;">2&nbsp;953&nbsp;892,89</td>
+					<td style="text-align:right;">54&nbsp;924&nbsp;488,00</td>
+					<td style="text-align:right;">7&nbsp;404&nbsp;974,00</td>
+				</tr><tr>
+					<td>43</td>
+					<td>[43] Kulit berbulu dan bulu tiruan; barang daripadanya</td>
+					<td style="text-align:right;">13&nbsp;396,63</td>
+					<td style="text-align:right;">1&nbsp;313,00</td>
+					<td style="text-align:right;">96&nbsp;594,00</td>
+					<td style="text-align:right;">4&nbsp;758,00</td>
+				</tr><tr>
+					<td>44</td>
+					<td>[44] Kayu dan barang dari kayu; arang kayu</td>
+					<td style="text-align:right;">319&nbsp;446&nbsp;051,38</td>
+					<td style="text-align:right;">426&nbsp;884&nbsp;675,52</td>
+					<td style="text-align:right;">30&nbsp;775&nbsp;435,00</td>
+					<td style="text-align:right;">69&nbsp;474&nbsp;543,00</td>
+				</tr><tr>
+					<td>45</td>
+					<td>[45] Gabus dan barang dari gabus</td>
+					<td style="text-align:right;">1&nbsp;392,87</td>
+					<td style="text-align:right;">1&nbsp;108,50</td>
+					<td style="text-align:right;">585&nbsp;917,00</td>
+					<td style="text-align:right;">87&nbsp;182,00</td>
+				</tr><tr>
+					<td>46</td>
+					<td>[46] Barang dari jerami, dari rumput esparto dan dari bahan anyaman lainnya; keranjang dan barang anyaman</td>
+					<td style="text-align:right;">7&nbsp;643&nbsp;975,02</td>
+					<td style="text-align:right;">1&nbsp;748&nbsp;834,56</td>
+					<td style="text-align:right;">46&nbsp;639,00</td>
+					<td style="text-align:right;">21&nbsp;419,00</td>
+				</tr><tr>
+					<td>47</td>
+					<td>[47] Pulp dari kayu atau dari bahan sellulosa berserat lainnya; kertas atau kertas karton yang dipulihkan (sisa dan skrap)</td>
+					<td style="text-align:right;">208&nbsp;988&nbsp;228,31</td>
+					<td style="text-align:right;">478&nbsp;498&nbsp;859,70</td>
+					<td style="text-align:right;">87&nbsp;445&nbsp;032,00</td>
+					<td style="text-align:right;">322&nbsp;930&nbsp;044,00</td>
+				</tr><tr>
+					<td>48</td>
+					<td>[48] Kertas dan kertas karton; barang dari pulp kertas, kertas atau kertas karton</td>
+					<td style="text-align:right;">346&nbsp;734&nbsp;903,42</td>
+					<td style="text-align:right;">486&nbsp;859&nbsp;418,48</td>
+					<td style="text-align:right;">115&nbsp;894&nbsp;324,00</td>
+					<td style="text-align:right;">73&nbsp;136&nbsp;467,00</td>
+				</tr><tr>
+					<td>49</td>
+					<td>[49] Buku, koran, gambar cetakan dan produk lainnya dari industri percetakan; naskah tulisan tangan, naskah ketikan dan rencana</td>
+					<td style="text-align:right;">2&nbsp;038&nbsp;808,13</td>
+					<td style="text-align:right;">761&nbsp;577,28</td>
+					<td style="text-align:right;">11&nbsp;431&nbsp;483,00</td>
+					<td style="text-align:right;">1&nbsp;692&nbsp;200,00</td>
+				</tr><tr>
+					<td>50</td>
+					<td>[50] Sutera</td>
+					<td style="text-align:right;">93&nbsp;969,02</td>
+					<td style="text-align:right;">9&nbsp;428,10</td>
+					<td style="text-align:right;">134&nbsp;543,00</td>
+					<td style="text-align:right;">16&nbsp;142,00</td>
+				</tr><tr>
+					<td>51</td>
+					<td>[51] Wol, bulu hewan halus atau kasar; benang bulu kuda dan kain tenunan</td>
+					<td style="text-align:right;">175&nbsp;405,15</td>
+					<td style="text-align:right;">53&nbsp;175,39</td>
+					<td style="text-align:right;">5&nbsp;979&nbsp;466,00</td>
+					<td style="text-align:right;">266&nbsp;067,00</td>
+				</tr><tr>
+					<td>52</td>
+					<td>[52] Kapas</td>
+					<td style="text-align:right;">56&nbsp;571&nbsp;325,52</td>
+					<td style="text-align:right;">22&nbsp;634&nbsp;206,86</td>
+					<td style="text-align:right;">152&nbsp;028&nbsp;381,00</td>
+					<td style="text-align:right;">56&nbsp;812&nbsp;344,00</td>
+				</tr><tr>
+					<td>53</td>
+					<td>[53] Serat tekstil nabati lainnya; benang kertas dan kain tenunan dari benang kertas</td>
+					<td style="text-align:right;">697&nbsp;419,46</td>
+					<td style="text-align:right;">2&nbsp;490&nbsp;225,27</td>
+					<td style="text-align:right;">14&nbsp;053&nbsp;218,00</td>
+					<td style="text-align:right;">3&nbsp;206&nbsp;960,00</td>
+				</tr><tr>
+					<td>54</td>
+					<td>[54] Filamen buatan; strip dan sejenisnya dari bahan tekstil buatan</td>
+					<td style="text-align:right;">66&nbsp;700&nbsp;651,16</td>
+					<td style="text-align:right;">24&nbsp;763&nbsp;623,93</td>
+					<td style="text-align:right;">138&nbsp;900&nbsp;346,00</td>
+					<td style="text-align:right;">36&nbsp;277&nbsp;909,00</td>
+				</tr><tr>
+					<td>55</td>
+					<td>[55] Serat stapel buatan</td>
+					<td style="text-align:right;">175&nbsp;473&nbsp;398,47</td>
+					<td style="text-align:right;">103&nbsp;193&nbsp;599,29</td>
+					<td style="text-align:right;">82&nbsp;089&nbsp;239,00</td>
+					<td style="text-align:right;">28&nbsp;704&nbsp;838,00</td>
+				</tr><tr>
+					<td>56</td>
+					<td>[56] Gumpalan, kain kempa dan bukan tenunan; benang khusus; benang pintal, tali tambang dan kabel serta barang daripadanya</td>
+					<td style="text-align:right;">12&nbsp;958&nbsp;501,75</td>
+					<td style="text-align:right;">3&nbsp;122&nbsp;657,66</td>
+					<td style="text-align:right;">85&nbsp;312&nbsp;494,00</td>
+					<td style="text-align:right;">11&nbsp;991&nbsp;407,00</td>
+				</tr><tr>
+					<td>57</td>
+					<td>[57] Karpet dan tekstil penutup lantai lainnya</td>
+					<td style="text-align:right;">3&nbsp;772&nbsp;028,19</td>
+					<td style="text-align:right;">1&nbsp;196&nbsp;537,85</td>
+					<td style="text-align:right;">5&nbsp;869&nbsp;747,00</td>
+					<td style="text-align:right;">2&nbsp;535&nbsp;899,00</td>
+				</tr><tr>
+					<td>58</td>
+					<td>[58] Kain tenunan khusus; kain tekstil berjumbai; renda; permadani dinding; hiasan; sulaman</td>
+					<td style="text-align:right;">3&nbsp;656&nbsp;544,06</td>
+					<td style="text-align:right;">363&nbsp;572,85</td>
+					<td style="text-align:right;">30&nbsp;824&nbsp;816,00</td>
+					<td style="text-align:right;">3&nbsp;050&nbsp;698,00</td>
+				</tr><tr>
+					<td>59</td>
+					<td>[59] Kain tekstil diresapi, dilapisi, ditutupi atau dilaminasi; barang tekstil dari jenis yang cocok untuk keperluan industri</td>
+					<td style="text-align:right;">10&nbsp;658&nbsp;892,65</td>
+					<td style="text-align:right;">2&nbsp;326&nbsp;765,34</td>
+					<td style="text-align:right;">58&nbsp;205&nbsp;263,00</td>
+					<td style="text-align:right;">13&nbsp;216&nbsp;112,00</td>
+				</tr><tr>
+					<td>60</td>
+					<td>[60] Kain rajutan atau kain kaitan</td>
+					<td style="text-align:right;">9&nbsp;007&nbsp;693,91</td>
+					<td style="text-align:right;">1&nbsp;729&nbsp;435,42</td>
+					<td style="text-align:right;">133&nbsp;383&nbsp;316,00</td>
+					<td style="text-align:right;">16&nbsp;179&nbsp;959,00</td>
+				</tr><tr>
+					<td>61</td>
+					<td>[61] Pakaian dan aksesori pakaian, rajutan atau kaitan</td>
+					<td style="text-align:right;">297&nbsp;395&nbsp;201,62</td>
+					<td style="text-align:right;">16&nbsp;575&nbsp;616,07</td>
+					<td style="text-align:right;">38&nbsp;875&nbsp;901,00</td>
+					<td style="text-align:right;">4&nbsp;102&nbsp;568,00</td>
+				</tr><tr>
+					<td>62</td>
+					<td>[62] Pakaian dan aksesori pakaian, bukan rajutan atau kaitan</td>
+					<td style="text-align:right;">418&nbsp;089&nbsp;058,58</td>
+					<td style="text-align:right;">16&nbsp;537&nbsp;842,34</td>
+					<td style="text-align:right;">43&nbsp;789&nbsp;837,00</td>
+					<td style="text-align:right;">4&nbsp;251&nbsp;566,00</td>
+				</tr><tr>
+					<td>63</td>
+					<td>[63] Barang tekstil sudah jadi lainnya; set; pakaian bekas dan barang tekstil bekas; gombal </td>
+					<td style="text-align:right;">15&nbsp;129&nbsp;359,83</td>
+					<td style="text-align:right;">3&nbsp;750&nbsp;140,80</td>
+					<td style="text-align:right;">15&nbsp;032&nbsp;118,00</td>
+					<td style="text-align:right;">4&nbsp;288&nbsp;506,00</td>
+				</tr><tr>
+					<td>64</td>
+					<td>[64] Alas kaki, pelindung kaki; bagian dari barang tersebut</td>
+					<td style="text-align:right;">366&nbsp;906&nbsp;435,64</td>
+					<td style="text-align:right;">18&nbsp;343&nbsp;739,56</td>
+					<td style="text-align:right;">77&nbsp;461&nbsp;689,00</td>
+					<td style="text-align:right;">9&nbsp;545&nbsp;122,00</td>
+				</tr><tr>
+					<td>65</td>
+					<td>[65] Tutup kepala dan bagiannya</td>
+					<td style="text-align:right;">4&nbsp;948&nbsp;580,16</td>
+					<td style="text-align:right;">336&nbsp;596,58</td>
+					<td style="text-align:right;">3&nbsp;464&nbsp;525,00</td>
+					<td style="text-align:right;">328&nbsp;606,00</td>
+				</tr><tr>
+					<td>66</td>
+					<td>[66] Payung, payung panas, tongkat jalan, tongkat duduk, cambuk, pecut dan bagiannya</td>
+					<td style="text-align:right;">262&nbsp;692,87</td>
+					<td style="text-align:right;">67&nbsp;159,24</td>
+					<td style="text-align:right;">2&nbsp;043&nbsp;561,00</td>
+					<td style="text-align:right;">1&nbsp;259&nbsp;464,00</td>
+				</tr><tr>
+					<td>67</td>
+					<td>[67] Bulu dan bulu halus unggas olahan serta barang dibuat dari bulu atau bulu halus unggas; bunga tiruan; barang dari rambut manusia</td>
+					<td style="text-align:right;">31&nbsp;914&nbsp;857,63</td>
+					<td style="text-align:right;">928&nbsp;200,32</td>
+					<td style="text-align:right;">8&nbsp;970&nbsp;348,00</td>
+					<td style="text-align:right;">845&nbsp;182,00</td>
+				</tr><tr>
+					<td>68</td>
+					<td>[68] Barang dari batu, plester, semen, asbes, mika atau bahan semacam itu</td>
+					<td style="text-align:right;">12&nbsp;335&nbsp;593,46</td>
+					<td style="text-align:right;">51&nbsp;205&nbsp;884,23</td>
+					<td style="text-align:right;">47&nbsp;087&nbsp;413,00</td>
+					<td style="text-align:right;">113&nbsp;409&nbsp;357,00</td>
+				</tr><tr>
+					<td>69</td>
+					<td>[69] Produk keramik</td>
+					<td style="text-align:right;">19&nbsp;800&nbsp;614,75</td>
+					<td style="text-align:right;">19&nbsp;245&nbsp;416,54</td>
+					<td style="text-align:right;">57&nbsp;926&nbsp;339,00</td>
+					<td style="text-align:right;">186&nbsp;541&nbsp;075,00</td>
+				</tr><tr>
+					<td>70</td>
+					<td>[70] Kaca dan barang dari kaca</td>
+					<td style="text-align:right;">22&nbsp;469&nbsp;446,77</td>
+					<td style="text-align:right;">42&nbsp;994&nbsp;831,69</td>
+					<td style="text-align:right;">36&nbsp;082&nbsp;827,00</td>
+					<td style="text-align:right;">41&nbsp;144&nbsp;930,00</td>
+				</tr><tr>
+					<td>71</td>
+					<td>[71] Mutiara alam, mutiara budidaya, batu mulia atau semi mulia, logam mulia, logam mulia kerajang, perhiasan imitasi, koin</td>
+					<td style="text-align:right;">378&nbsp;552&nbsp;411,28</td>
+					<td style="text-align:right;">226&nbsp;455,43</td>
+					<td style="text-align:right;">73&nbsp;388&nbsp;174,00</td>
+					<td style="text-align:right;">651&nbsp;898,00</td>
+				</tr><tr>
+					<td>72</td>
+					<td>[72] Besi dan baja</td>
+					<td style="text-align:right;">623&nbsp;260&nbsp;779,38</td>
+					<td style="text-align:right;">525&nbsp;804&nbsp;803,88</td>
+					<td style="text-align:right;">800&nbsp;971&nbsp;503,00</td>
+					<td style="text-align:right;">1&nbsp;381&nbsp;012&nbsp;042,00</td>
+				</tr><tr>
+					<td>73</td>
+					<td>[73] Barang dari besi atau baja</td>
+					<td style="text-align:right;">99&nbsp;027&nbsp;927,76</td>
+					<td style="text-align:right;">37&nbsp;739&nbsp;909,67</td>
+					<td style="text-align:right;">308&nbsp;956&nbsp;058,00</td>
+					<td style="text-align:right;">155&nbsp;917&nbsp;209,00</td>
+				</tr><tr>
+					<td>74</td>
+					<td>[74] Tembaga dan barang daripadanya</td>
+					<td style="text-align:right;">163&nbsp;942&nbsp;748,78</td>
+					<td style="text-align:right;">28&nbsp;485&nbsp;847,47</td>
+					<td style="text-align:right;">95&nbsp;376&nbsp;071,00</td>
+					<td style="text-align:right;">15&nbsp;412&nbsp;832,00</td>
+				</tr><tr>
+					<td>75</td>
+					<td>[75] Nikel dan barang daripadanya</td>
+					<td style="text-align:right;">86&nbsp;412&nbsp;071,09</td>
+					<td style="text-align:right;">9&nbsp;044&nbsp;806,54</td>
+					<td style="text-align:right;">13&nbsp;810&nbsp;188,00</td>
+					<td style="text-align:right;">525&nbsp;340,00</td>
+				</tr><tr>
+					<td>76</td>
+					<td>[76] Aluminium dan barang daripadanya</td>
+					<td style="text-align:right;">35&nbsp;030&nbsp;717,91</td>
+					<td style="text-align:right;">14&nbsp;048&nbsp;289,91</td>
+					<td style="text-align:right;">126&nbsp;066&nbsp;006,00</td>
+					<td style="text-align:right;">54&nbsp;670&nbsp;623,00</td>
+				</tr><tr>
+					<td>77</td>
+					<td>[78] Timbal dan barang daripadanya</td>
+					<td style="text-align:right;">2&nbsp;204&nbsp;712,20</td>
+					<td style="text-align:right;">983&nbsp;358,00</td>
+					<td style="text-align:right;">14&nbsp;980&nbsp;091,00</td>
+					<td style="text-align:right;">6&nbsp;790&nbsp;656,00</td>
+				</tr><tr>
+					<td>78</td>
+					<td>[79] Seng dan barang daripadanya</td>
+					<td style="text-align:right;">1&nbsp;156&nbsp;483,77</td>
+					<td style="text-align:right;">798&nbsp;381,53</td>
+					<td style="text-align:right;">28&nbsp;965&nbsp;317,00</td>
+					<td style="text-align:right;">11&nbsp;233&nbsp;550,00</td>
+				</tr><tr>
+					<td>79</td>
+					<td>[80] Timah dan barang daripadanya</td>
+					<td style="text-align:right;">110&nbsp;393&nbsp;881,67</td>
+					<td style="text-align:right;">6&nbsp;445&nbsp;725,35</td>
+					<td style="text-align:right;">1&nbsp;407&nbsp;116,00</td>
+					<td style="text-align:right;">72&nbsp;126,00</td>
+				</tr><tr>
+					<td>80</td>
+					<td>[81] Logam tidak mulia lainnya; sermet; barang daripadanya</td>
+					<td style="text-align:right;">814&nbsp;634,26</td>
+					<td style="text-align:right;">136&nbsp;264,07</td>
+					<td style="text-align:right;">7&nbsp;137&nbsp;949,00</td>
+					<td style="text-align:right;">202&nbsp;809,00</td>
+				</tr><tr>
+					<td>81</td>
+					<td>[82] Perkakas, peralatan, barang tajam, sendok dan garpu, dari logam tidak mulia; bagiannya dari logam tidak mulia</td>
+					<td style="text-align:right;">6&nbsp;935&nbsp;082,23</td>
+					<td style="text-align:right;">636&nbsp;117,28</td>
+					<td style="text-align:right;">48&nbsp;655&nbsp;400,00</td>
+					<td style="text-align:right;">8&nbsp;037&nbsp;485,00</td>
+				</tr><tr>
+					<td>82</td>
+					<td>[83] Bermacam-macam barang dari logam tidak mulia</td>
+					<td style="text-align:right;">8&nbsp;138&nbsp;012,86</td>
+					<td style="text-align:right;">2&nbsp;100&nbsp;110,08</td>
+					<td style="text-align:right;">66&nbsp;925&nbsp;455,00</td>
+					<td style="text-align:right;">23&nbsp;482&nbsp;228,00</td>
+				</tr><tr>
+					<td>83</td>
+					<td>[84] Reaktor nuklilr, ketel, mesin dan peralaan mekanis; bagian daripadanya</td>
+					<td style="text-align:right;">452&nbsp;346&nbsp;089,08</td>
+					<td style="text-align:right;">49&nbsp;655&nbsp;781,59</td>
+					<td style="text-align:right;">2&nbsp;277&nbsp;914&nbsp;960,00</td>
+					<td style="text-align:right;">296&nbsp;266&nbsp;747,00</td>
+				</tr><tr>
+					<td>84</td>
+					<td>[85] Mesin dan perlengkapan elektris serta bagiannya; perekam dan pereproduksi suara/gambar dan suara televisi, dan bagian serta aksesori dari barang tersebut</td>
+					<td style="text-align:right;">692&nbsp;672&nbsp;862,18</td>
+					<td style="text-align:right;">38&nbsp;372&nbsp;573,87</td>
+					<td style="text-align:right;">1&nbsp;722&nbsp;920&nbsp;218,00</td>
+					<td style="text-align:right;">108&nbsp;829&nbsp;267,00</td>
+				</tr><tr>
+					<td>85</td>
+					<td>[86] Lokomotif kereta api, kendaraan yang bergerak diatas rel dan bagiannya, perlengkapan pemberi isyarat lalulintas dari segala jenis</td>
+					<td style="text-align:right;">8&nbsp;884&nbsp;830,68</td>
+					<td style="text-align:right;">1&nbsp;347&nbsp;210,89</td>
+					<td style="text-align:right;">22&nbsp;674&nbsp;256,00</td>
+					<td style="text-align:right;">4&nbsp;850&nbsp;447,00</td>
+				</tr><tr>
+					<td>86</td>
+					<td>[87] Kendaraan selain yang bergerak diatas rel kereta api, dan bagian serta aksesorinya</td>
+					<td style="text-align:right;">572&nbsp;119&nbsp;305,15</td>
+					<td style="text-align:right;">66&nbsp;605&nbsp;229,12</td>
+					<td style="text-align:right;">438&nbsp;024&nbsp;356,00</td>
+					<td style="text-align:right;">56&nbsp;758&nbsp;629,00</td>
+				</tr><tr>
+					<td>87</td>
+					<td>[88] Kendaraan udara, kendaraan luar angkasa dan bagiannya</td>
+					<td style="text-align:right;">6&nbsp;103&nbsp;035,24</td>
+					<td style="text-align:right;">33&nbsp;124,11</td>
+					<td style="text-align:right;">82&nbsp;350&nbsp;884,00</td>
+					<td style="text-align:right;">103&nbsp;648,00</td>
+				</tr><tr>
+					<td>88</td>
+					<td>[89] Kapal, perahu dan struktur terapung</td>
+					<td style="text-align:right;">25&nbsp;289&nbsp;828,67</td>
+					<td style="text-align:right;">14&nbsp;803&nbsp;420,67</td>
+					<td style="text-align:right;">97&nbsp;243&nbsp;733,00</td>
+					<td style="text-align:right;">92&nbsp;842&nbsp;554,00</td>
+				</tr><tr>
+					<td>89</td>
+					<td>[90] Instrumen dan aparatus optis, fotografi, sinematografi, pengukur, pemeriksa, presisi, medis dan bedah; bagian dan aksesorinya</td>
+					<td style="text-align:right;">55&nbsp;328&nbsp;842,04</td>
+					<td style="text-align:right;">2&nbsp;680&nbsp;204,80</td>
+					<td style="text-align:right;">268&nbsp;165&nbsp;839,00</td>
+					<td style="text-align:right;">11&nbsp;614&nbsp;861,00</td>
+				</tr><tr>
+					<td>90</td>
+					<td>[91] Jam dan arloji serta bagiannya</td>
+					<td style="text-align:right;">2&nbsp;407&nbsp;593,76</td>
+					<td style="text-align:right;">22&nbsp;188,56</td>
+					<td style="text-align:right;">20&nbsp;910&nbsp;520,00</td>
+					<td style="text-align:right;">1&nbsp;142&nbsp;041,00</td>
+				</tr><tr>
+					<td>91</td>
+					<td>[92] Instrumen musik, bagian dan aksesori barang tersebut</td>
+					<td style="text-align:right;">48&nbsp;335&nbsp;793,17</td>
+					<td style="text-align:right;">4&nbsp;191&nbsp;660,09</td>
+					<td style="text-align:right;">14&nbsp;719&nbsp;060,00</td>
+					<td style="text-align:right;">1&nbsp;741&nbsp;714,00</td>
+				</tr><tr>
+					<td>92</td>
+					<td>[93] Senjata dan amunisi; Bagian dan aksesoris daripadanya</td>
+					<td style="text-align:right;">377,06</td>
+					<td style="text-align:right;">30,70</td>
+					<td style="text-align:right;">41&nbsp;069&nbsp;761,00</td>
+					<td style="text-align:right;">218&nbsp;707,00</td>
+				</tr><tr>
+					<td>93</td>
+					<td>[94] Perabotan; keperluan tidur, kasur, alas kasur, bantalan kursi dan perabotan yang diisi semacam itu ; lampu dan alat kelengkapan penerangan; papan/tanda iluminasi; bangunan prefabrikasi  </td>
+					<td style="text-align:right;">212&nbsp;137&nbsp;138,17</td>
+					<td style="text-align:right;">54&nbsp;598&nbsp;273,93</td>
+					<td style="text-align:right;">106&nbsp;409&nbsp;893,00</td>
+					<td style="text-align:right;">47&nbsp;577&nbsp;314,00</td>
+				</tr><tr>
+					<td>94</td>
+					<td>[95] Keperluan olah raga; bagian dan aksesorinya</td>
+					<td style="text-align:right;">38&nbsp;990&nbsp;138,00</td>
+					<td style="text-align:right;">3&nbsp;224&nbsp;941,46</td>
+					<td style="text-align:right;">34&nbsp;023&nbsp;831,00</td>
+					<td style="text-align:right;">6&nbsp;991&nbsp;195,00</td>
+				</tr><tr>
+					<td>95</td>
+					<td>[96] Bermacam-macam barang hasil pabrik</td>
+					<td style="text-align:right;">29&nbsp;012&nbsp;520,63</td>
+					<td style="text-align:right;">8&nbsp;679&nbsp;094,51</td>
+					<td style="text-align:right;">52&nbsp;207&nbsp;793,00</td>
+					<td style="text-align:right;">10&nbsp;478&nbsp;176,00</td>
+				</tr><tr>
+					<td>96</td>
+					<td>[97] Karya seni, barang kolektor dan barang antik</td>
+					<td style="text-align:right;">435&nbsp;903,69</td>
+					<td style="text-align:right;">73&nbsp;543,07</td>
+					<td style="text-align:right;">1&nbsp;642&nbsp;612,00</td>
+					<td style="text-align:right;">81&nbsp;973,00</td>
+				</tr><tr>
+					<td>97</td>
+					<td>[98] Kendaraan bermotor dan komponennya dalam keadaan terbongkar tidak lengkap</td>
+					<td style="text-align:right;">0,00</td>
+					<td style="text-align:right;">0,00</td>
+					<td style="text-align:right;">52&nbsp;151&nbsp;632,00</td>
+					<td style="text-align:right;">6&nbsp;282&nbsp;258,00</td>
+				</tr><tr>
+					<td>98</td>
+					<td>[99] barang-barang pos, barang kiriman, dan barang yang dikembalikan </td>
+					<td style="text-align:right;">4&nbsp;331&nbsp;965,53</td>
+					<td style="text-align:right;">102&nbsp;181,76</td>
+					<td style="text-align:right;">59&nbsp;861,00</td>
+					<td style="text-align:right;">35,00</td>
+				</tr></tbody><caption><em>Sumber : https://www.bps.go.id diakses pada 15-03-2022 09:30:59 WIB</em></caption></table></body></html>

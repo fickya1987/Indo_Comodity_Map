@@ -598,9 +598,7 @@ folium.Choropleth(
 ).add_to(m)
 folium.features.GeoJson(indonesia, name="LSOA Code",
                         popup=folium.features.GeoJsonPopup(fields=['state'])).add_to(m)
-folium_static(m,width=1340, height=500)
-
-
+folium_static(m,width=1440, height=500)
 
 
 df_kons = pd.read_excel(filekons)

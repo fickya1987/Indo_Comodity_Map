@@ -638,7 +638,7 @@ with col1:
     optionX = st.selectbox(
      'Konsumsi Dalam Negeri',
      ("Padi/Beras", "Umbi-umbian", "Ikan dan hewan laut", "Daging", 
-     "Telur dan Susu","Sayur","Kacang","Buah","Minyak Goreng","Bahan Minuman (Kopi, Teh, Gula, dll.)",
+     "Telur dan Susu","Sayur","Kacang & Biji-bijian","Buah","Minyak Goreng","Bahan Minuman (Kopi, Teh, Gula, dll.)",
      "Ragam Bumbu","Tembakau",),
     key=1111)
 
@@ -673,7 +673,7 @@ elif optionX == "Sayur":
     optionY = sayur
     for i in range(1,5):
         valueY.append(optionY.iloc[i])
-elif optionX == "Kacang":
+elif optionX == "Kacang & Biji-bijian":
     valueY.clear()
     optionY = kacang
     for i in range(1,5):

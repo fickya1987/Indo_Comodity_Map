@@ -673,7 +673,7 @@ elif optionX == "Sayur":
     optionY = sayur
     for i in range(1,5):
         valueY.append(optionY.iloc[i])
- elif optionX == "Kacang":
+elif optionX == "Kacang":
     valueY.clear()
     optionY = kacang
     for i in range(1,5):

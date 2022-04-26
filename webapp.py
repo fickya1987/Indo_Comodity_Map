@@ -507,6 +507,7 @@ df_padi = df_padi.replace('-',0)
 df_padi.drop([36], axis=0, inplace=True)
 df_padii = df_padi.iloc[:, 7:]
 df_padii.insert(0,"Provinsi",df_padi.iloc[:,0])
+df_padii[2019] = pd.to_numeric(df_padii[2019])
 
 df_iktn = pd.read_excel(fileikan1)
 header4 = df_iktn.iloc[2]

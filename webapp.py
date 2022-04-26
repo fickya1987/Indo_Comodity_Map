@@ -268,25 +268,25 @@ with col1:
     key=1152)
 
 if optionB == "Kopi dan Teh":
-    optionBB = data_kopiteh
+    optionBB = imp_kopiteh
 elif optionB == "Garam dan Belerang":
-    optionBB = data_garambel
+    optionBB = imp_garambel
 elif optionB == "Gula":
-    optionBB = data_kopiteh
+    optionBB = imp_gula
 elif optionB == "Kakao":
-    optionBB = data_kakao
+    optionBB = imp_kakao
 elif optionB == "Tembakau":
-    optionBB = data_temb
+    optionBB = imp_temb
 elif optionB == "Ikan dan Udang":
-    optionBB = data_ikanudang
+    optionBB = imp_ikanudang
 elif optionB == "Daging dan Ikan Olahan":
-    optionBB = data_dgniknol
+    optionBB = imp_dgniknol
 elif optionB == "Pupuk":
-    optionBB = data_pupuk
+    optionBB = imp_pupuk
 elif optionB == "Besi":
-    optionBB = data_besi
+    optionBB = imp_besi
 elif optionB == "Mesin dan Peralatan Listrik":
-    optionBB = data_mesinlistrik
+    optionBB = imp_mesinlistrik
 else:
     optionBB = None
 
